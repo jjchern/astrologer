@@ -1,7 +1,7 @@
 #' Weekly horoscopes from Chani Nicholas
 #'
 #' Returns horoscopes from \url{http://chaninicholas.com}. Includes data for
-#' 2015-2017, with start dates between 2015-01-05 and 2017-02-06.All horoscopes
+#' 2015-2017, with start dates between 2015-01-05 and 2017-02-06. All horoscopes
 #' are written for one week, with the exception of the horoscopes starting on
 #' 2015-03-23, which were written for two weeks.
 #'
